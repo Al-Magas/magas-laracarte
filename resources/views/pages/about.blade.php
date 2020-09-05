@@ -9,7 +9,7 @@
 				<div class="alert alert-warning" role="alert">
   					<strong> <i class="fa fa-exclamation-triangle"></i>This app has been built by <a href="https://twitter.com/etsmo">@etsmo</a> for learning purposes.</strong>
 				</div>
-				<p>Feel free to help to improve the <a href="">source code.</a></p>
+				<p>Feel free to help to improve the <a href="https://github.com/Al-Magas/magas-laracarte">source code.</a></p>
 				<hr>
 			</div>
 				

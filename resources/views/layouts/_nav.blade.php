@@ -14,11 +14,11 @@
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
+      <li class="nav-item {{route_active('home')}}">
         <a class="nav-link" href="{{Route('home')}}">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="{{Route('about')}}">About</a>
+        <a class="nav-link {{route_active('about')}}"  href="{{Route('about')}}">About</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Artisans</a>
