@@ -1,4 +1,4 @@
-@extends("layouts.master")
+@extends("layouts.master",['title'=>'About'])
 @section('content')
 <br>
 	<div class="container">
